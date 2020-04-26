@@ -9,7 +9,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 
 - [ ] [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 - [ ] [What is TCP/IP?](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
-- [ ] [HTTP (Hyper Text Transform Protocol)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- [ ] [HTTP (Hypertext Transfer Protocol)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 - [ ] [HTTPS (HTTP Secure)](https://en.wikipedia.org/wiki/HTTPS)
 - [ ] [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2)
 - [ ] [How DNS Works](https://howdns.works/ep1/)
