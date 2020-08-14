@@ -48,6 +48,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [ ] [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/)
 - [ ] [The Front-End Test Pyramid: How to Rethink Your Testing](https://www.freecodecamp.org/news/the-front-end-test-pyramid-rethink-your-testing-3b343c2bca51/)
+- [ ] [Functional Programming (Fantasy Land JavaScript specification Guide)](https://sanderv1992.github.io/fp/)
 
 ## Backend
 
