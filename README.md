@@ -20,6 +20,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [Web Security Basics](https://github.com/vasanthk/web-security-basics)
 - [ ] [Pro Git](https://git-scm.com/book/en/v2)
 - [ ] [Everything curl](https://ec.haxx.se/)
+- [ ] [Set Theory and Foundations of Mathematics](http://settheory.net/)
 
 ## Frontend
 
