@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "a curated list of \"basic\" knowledge that \"good to know\" by evilfactorylabs members. But feel free to take a look and learn together!",
   "scripts": {
-    "start": "npm run build && npx serve _site/",
+    "start": "npm run build -- --pathprefix='/' && npx serve _site/",
     "watch": "npx eleventy --watch",
     "dev": "npx eleventy --serve",
     "build": "npx eleventy",
