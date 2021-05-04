@@ -14,6 +14,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', markdownLib)
 
   return {
+    pathPrefix: "/learning-resources/",
     passthroughFileCopy: true
   }
 }
