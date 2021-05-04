@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 1rem;
+}
+
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+input[type='checkbox'] {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+a {
+  color: inherit;
+}
+
+a:visited {
+  color: #666;
+}
+
+ul {
+  padding-left: 1rem;
+  margin-top: 0;
+}
+
+li {
+  list-style: none;
+}
+
+@media screen and (min-width: 60em) {
+  body {
+    padding: 2rem;
+  }
+}
