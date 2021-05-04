@@ -1,3 +1,9 @@
+---
+permalink: 'index.html'
+title: 'Learning Resources by evilfactorylabs'
+excerpt: 'Jika kamu lebih nyaman dengan versi dokumen HTML, kunjungi https://evilfactorylabs.github.io/learning-resources'
+---
+
 # Learning Resources
 
 a curated list of "basic" knowledge that "good to know" by evilfactorylabs members. But feel free

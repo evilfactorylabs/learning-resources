@@ -1,0 +1,29 @@
+{
+  "name": "@evilfactorylabs/learning-resources",
+  "private": true,
+  "version": "1.0.0",
+  "description": "a curated list of \"basic\" knowledge that \"good to know\" by evilfactorylabs members. But feel free to take a look and learn together!",
+  "scripts": {
+    "start": "npm run build -- --pathprefix='/' && npx serve _site/",
+    "watch": "npx eleventy --watch",
+    "dev": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilfactorylabs/learning-resources.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilfactorylabs/learning-resources/issues"
+  },
+  "homepage": "https://github.com/evilfactorylabs/learning-resources#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "markdown-it": "^12.0.6",
+    "markdown-it-checkbox": "^1.1.0"
+  }
+}
