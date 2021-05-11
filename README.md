@@ -11,6 +11,15 @@ to take a look and learn together!
 
 We ship this with "checklist" format to make your life easier. Fork this and let's learn.
 
+## Table of Content
+<!-- vim-markdown-toc GFM -->
+
+* [Fundamentals](#fundamentals)
+* [Frontend](#frontend)
+* [Backend](#backend)
+
+<!-- vim-markdown-toc -->
+
 ## Fundamentals
 
 - [ ] [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
@@ -28,6 +37,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [Everything curl](https://ec.haxx.se/)
 - [ ] [Set Theory and Foundations of Mathematics](http://settheory.net/)
 - [ ] [Practical Cryptography for Developers](https://cryptobook.nakov.com)
+- [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Frontend
 
