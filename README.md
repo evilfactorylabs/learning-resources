@@ -38,6 +38,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [Set Theory and Foundations of Mathematics](http://settheory.net/)
 - [ ] [Practical Cryptography for Developers](https://cryptobook.nakov.com)
 - [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [ ] [Open Source Society University](https://github.com/ossu/computer-science)
 
 ## Frontend
 
