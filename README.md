@@ -17,6 +17,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 * [Fundamentals](#fundamentals)
 * [Frontend](#frontend)
 * [Backend](#backend)
+* [Other Resources](#other-resources)
 
 <!-- vim-markdown-toc -->
 
@@ -38,7 +39,6 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [Set Theory and Foundations of Mathematics](http://settheory.net/)
 - [ ] [Practical Cryptography for Developers](https://cryptobook.nakov.com)
 - [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- [ ] [Open Source Society University](https://github.com/ossu/computer-science)
 
 ## Frontend
 
@@ -112,3 +112,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [Caching Fundamentals](https://www.softkraft.co/caching-fundamentals/)
 - [ ] [What is a web cache and what are the benefits of cached data?](https://www.section.io/blog/what-is-cashed-data-cache-definition/)
 - [ ] [Caching Basics: Why? When? What? Where? Writing, replacement, and invalidation Strategies](https://www.eximiaco.tech/en/2019/05/16/caching-basics-why-when-what-where-writing-replacement-and-invalidation-strategies/)
+
+## Other Resources
+
+- [ ] [Open Source Society University](https://github.com/ossu/computer-science)
