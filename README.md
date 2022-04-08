@@ -79,6 +79,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [Introduction to Memory Management](https://www.studytonight.com/operating-system/memory-management)
 - [ ] [Back to basic: Series on dynamic memory management](https://docs.microsoft.com/en-us/archive/blogs/abhinaba/back-to-basic-series-on-dynamic-memory-management)
 - [ ] [Inter Process Communication (IPC)](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+- [ ] [Dining Philosophers Problem in OS](https://www.scaler.com/topics/operating-system/dining-philosophers-problem-in-os/)
 - [ ] [A Quick and Dirty Guide to RAM: What You Need to Know](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/)
 - [ ] [Process Management in Operating System: PCB in OS](https://www.guru99.com/process-management-pcb.html)
 - [ ] [Processes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)
