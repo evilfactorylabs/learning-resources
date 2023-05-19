@@ -41,6 +41,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [ ] [How to Design Programs, First Edition](https://htdp.org/2003-09-26/Book/curriculum-Z-H-1.html)
 - [ ] [How to Design Programs, Second Edition](https://htdp.org/2021-11-15/Book/index.html)
+- [ ] [The XY Problem](https://xyproblem.info)
 
 ## Frontend
 
