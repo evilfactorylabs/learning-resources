@@ -13,6 +13,7 @@ h2 {
 }
 
 input[type='checkbox'] {
+  appearance: auto;
   display: inline-block;
   margin-right: 10px;
 }
