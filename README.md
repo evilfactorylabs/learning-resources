@@ -44,7 +44,7 @@ We ship this with "checklist" format to make your life easier. Fork this and let
 - [ ] [How to Design Programs, Second Edition](https://htdp.org/2021-11-15/Book/index.html)
 - [ ] [The XY Problem](https://xyproblem.info)
 - [ ] [Ops School Curriculum](https://www.opsschool.org/introduction.html)
-- [ ] [](https://github.com/charlax/professional-programming)
+- [ ] [A collection of learning resources for curious software engineers](https://github.com/charlax/professional-programming)
 
 ## Frontend
 
